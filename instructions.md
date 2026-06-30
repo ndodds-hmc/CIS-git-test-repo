@@ -10,3 +10,5 @@
 8. git push origin new-branch (git push -u origin for the first time to be safe)
 9. Go to GitHub, initiate PR
 10. Approve your own PR
+11. Once approved and merged by admin, git pull origin main
+12. git branch -d "new-branch"
